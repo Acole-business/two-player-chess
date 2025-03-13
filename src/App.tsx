@@ -41,7 +41,7 @@ function App() {
         <div className="app">
             <div className="first-container">
                 <span>
-                    CHESS
+                    Acole Multiplayer Chess
                 </span>
             </div>
 

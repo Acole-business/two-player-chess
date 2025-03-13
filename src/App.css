@@ -5,7 +5,7 @@
 }
 body {
     height: 100vh;
-    background: linear-gradient(to bottom right, darkblue, steelblue, skyblue); 
+    background: linear-gradient(to bottom right, black, black, black); 
 }
 .app {
     width: 100vw;
@@ -188,7 +188,7 @@ tbody::before {
 .current-player {
     /* background: #42AAFF; */
     /* border: 3px solid darkslateblue; */
-    box-shadow: 0px 0px 45px white;
+    box-shadow: 0px 0px 45px black;
     color: white;
 }
 
