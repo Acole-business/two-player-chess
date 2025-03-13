@@ -1,6 +1,6 @@
 import { Board } from "../Board"
 import { Cell } from "../Cell"
-import logo from "../../assets/white-knight.png";
+import logo from "../../assets/knight-w.svg";
 
 export class Piece {
     killed: boolean;

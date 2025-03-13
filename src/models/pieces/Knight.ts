@@ -1,8 +1,8 @@
 import { Piece } from "./Piece"
 import { Cell } from "../Cell"
-import blackLogo from "../../assets/black-knight.png";
+import blackLogo from "../../assets/knight-b.svg";
 import { Board } from "../Board"
-import whiteLogo from "../../assets/white-knight.png";
+import whiteLogo from "../../assets/knight-w.svg";
 
 export class Knight extends Piece {
     constructor(white: boolean) {

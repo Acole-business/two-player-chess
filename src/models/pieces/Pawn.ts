@@ -1,6 +1,6 @@
 import { Piece } from "./Piece"
-import blackLogo from "../../assets/black-pawn.png";
-import whiteLogo from "../../assets/white-pawn.png";
+import blackLogo from "../../assets/pawn-b.svg";
+import whiteLogo from "../../assets/pawn-w.svg";
 import { Cell } from "../Cell"
 import { Board } from "../Board"
 
